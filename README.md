@@ -1,4 +1,4 @@
-# spm_container
+# spm in octave
 
 This github repository contains a pipeline to interface with SPM12's segmentation and DARTEL tools in Octave and can be deployed on a high performance cluster.
 
