@@ -8,4 +8,7 @@ This package also depends on SPM12. Visit the [SPM website](http://www.fil.ion.u
 
 Authors: Angela Tam, Yasser Iturria-Medina, Pierre Bellec
 
+Current issues:
+* generating a new template is broken (i.e. pipeline will work if you provide a template and normalize new subjects to it)
+
 Please note that this repository is not under active maintenance at the moment.
